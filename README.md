@@ -6,7 +6,7 @@ This project performs sentiment analysis on Twitter data related to the Russia-U
 
 - **Domain:** Natural Language Processing (NLP), Social Media Analytics
 - **Techniques:** VADER Sentiment Analysis, TF-IDF Vectorization, Text Preprocessing, Machine Learning Classification
-- **Algorithms Used:** Logistic Regression, Naive Bayes, Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbor
+- **Algorithms Used:** Logistic Regression, Naive Bayes, Support Vector Machine, Decision Tree, Random Forest, K-Nearest Neighbor (KNN)
 - **Best Accuracy:** Linear SVM – 78.48%
 
 ## Workflow

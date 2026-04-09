@@ -25,7 +25,8 @@ This project performs sentiment analysis on Twitter data related to the Russia-U
 
 ## Tools & Libraries
 
-- Python (Jupyter Notebook)
+- Python (Google Colab)
+- TensorFlow
 - Scikit-learn
 - NLTK
 - VADER Sentiment

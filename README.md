@@ -1,4 +1,4 @@
-# Ukraine vs Russia Conflict – Twitter Sentiment Analysis
+# Ukraine vs. Russia Conflict – Twitter Sentiment Analysis
 
 This project performs sentiment analysis on Twitter data related to the Russia-Ukraine conflict using Natural Language Processing and Machine Learning techniques. It analyzes public opinion by classifying tweets into positive, negative, and neutral sentiments and provides insights into global discourse around the conflict.
 

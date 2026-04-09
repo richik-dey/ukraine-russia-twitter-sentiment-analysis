@@ -1,0 +1,10 @@
+Python (Google Colab)
+Scikit-learn
+NLTK
+VADER Sentiment
+Pandas
+NumPy
+Matplotlib
+Seaborn
+WordCloud
+Langdetect

@@ -41,11 +41,11 @@ https://www.kaggle.com/datasets/bwandowando/ukraine-russian-crisis-twitter-datas
 
 ## Team Member
 
-**Richik Dey**
-B.Tech – Information Technology
-Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha
-Project Type: Group
-Guide: Dr. Partha Sarathi Paul
+**Richik Dey**    
+B.Tech – Information Technology  
+Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar, Odisha    
+Project Type: Group  
+Guide: Dr. Partha Sarathi Paul 
 
 ## License
 
